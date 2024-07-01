@@ -3,7 +3,7 @@ um simples reprodutor de música py com baixador do youtube
 
 eu utilizei as seguintes bibliotecas para fazer o Python ficar um ótimo reprodutor de sons
 
-        >        pip install pytube pydub mutagen pillow pygame
+pip install pytube pydub mutagen pillow pygame
         
 > exe   >   não garantimos funcionamento eficaz na versão em exe mas está aqui disponível > https://drive.google.com/uc?id=1s2XQqHM7qxBzLmdQDk9MTDRIY6K9zUVP
 > 
